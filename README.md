@@ -20,23 +20,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Programação 2.0: A Era dos Desenvolvedores Inteligentes com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Programação 2.0: A Era dos Desenvolvedores Inteligentes com IA" é um inovador podcast gerado por IAs generativas, dedicado a explorar como a inteligência artificial está revolucionando o desenvolvimento de software. Este projeto visa desmistificar o impacto da IA em todas as etapas do ciclo de desenvolvimento, desde a codificação até a manutenção.
+
+Através de episódios dinâmicos, o podcast apresentará curiosidade, histórias  e demonstrações práticas de ferramentas de IA que estão transformando a forma como desenvolvemos software. Com conteúdo criado e revisado por IAs, garantimos episódios atualizados e relevantes, oferecendo insights valiosos sobre o futuro da programação.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat.gpt
+ElevenLabs
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Quando vi a descrição do projeto, decidi escolher um tema que mais me chamou a atenção durante o curso: podcasts gerados por inteligência artificial. Esse assunto já tinha despertado meu interesse em outras plataformas, e achei que seria uma ótima oportunidade para explorar mais a fundo.
+
+Com a ideia definida, comecei a buscar temas para o podcast usando prompts como "Me dê cinco temas para um podcast de tecnologia criado totalmente com IAs generativas". Usei regras para deixar o prompt mais robusto e obter sugestões mais relevantes. Além disso, pedi títulos chamativos e um roteiro completo, sempre revisando o conteúdo para garantir que estivesse alinhado com o objetivo do projeto, utilizando a IA como uma ferramenta de suporte.
+
+Por fim, transcrevi o roteiro no ElevenLabs com um locutor de qualidade, editando as partes necessárias para garantir que fizessem sentido. O resultado final foi um podcast bem estruturado e envolvente.
+
+Apreciem o resultado!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- [Podcast](/exemplos/PODCAST.md)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
 
 ### Exemplos e Insigths
 
