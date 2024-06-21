@@ -17,9 +17,6 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
 # Programação 2.0: A Era dos Desenvolvedores Inteligentes com IA
 
 ## 📒 Descrição
@@ -32,7 +29,8 @@ Chat.gpt
 ElevenLabs
 
 ## 🧐 Processo de Criação
-Quando vi a descrição do projeto, decidi escolher um tema que mais me chamou a atenção durante o curso: podcasts gerados por inteligência artificial. Esse assunto já tinha despertado meu interesse em outras plataformas, e achei que seria uma ótima oportunidade para explorar mais a fundo.
+Quando vi a descrição do projeto, decidi escolher um tema que mais me chamou a atenção durante o curso: podcasts gerados por inteligência artificial.
+Esse assunto já tinha despertado meu interesse em outras plataformas, e achei que seria uma ótima oportunidade para explorar mais a fundo.
 
 Com a ideia definida, comecei a buscar temas para o podcast usando prompts como "Me dê cinco temas para um podcast de tecnologia criado totalmente com IAs generativas". Usei regras para deixar o prompt mais robusto e obter sugestões mais relevantes. Além disso, pedi títulos chamativos e um roteiro completo, sempre revisando o conteúdo para garantir que estivesse alinhado com o objetivo do projeto, utilizando a IA como uma ferramenta de suporte.
 
@@ -42,6 +40,12 @@ Apreciem o resultado!
 
 ## 🚀 Resultados
 - [Podcast](/exemplos/PODCAST.md)
+
+
+### Template
+
+```markdown
+
 
 
 
