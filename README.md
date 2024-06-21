@@ -39,7 +39,7 @@ Por fim, transcrevi o roteiro no ElevenLabs com um locutor de qualidade, editand
 Apreciem o resultado!
 
 ## 🚀 Resultados
-- [Podcast](/exemplos/PODCAST.md)
+- [Podcast](/podcast)
 
 
 ### Template
